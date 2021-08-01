@@ -1,5 +1,7 @@
 export default function PageB() {
     return (
-        <p>This is page B</p>
+        <div>
+            <p>This is page B</p>
+        </div>
     );
 }
