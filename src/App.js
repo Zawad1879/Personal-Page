@@ -2,8 +2,10 @@ import './App.css';
 import Navbar from './components/navbar';
 import MobileNavbar from './components/mobile-navbar';
 import Header from './components/header';
-import PageA from './pages/pageA';
-import PageB from './pages/pageB';
+import About from './pages/About';
+import Skills from './pages/Skills';
+import Experience from './pages/Experience';
+import Projects from './pages/Projects';
 import { motion, AnimatePresence } from "framer-motion";
 import { Switch, Route, useLocation, useHistory } from "react-router-dom";
 
@@ -18,13 +20,14 @@ function App() {
           <MobileNavbar />
           <Navbar />
           
-          <div class="flex-1 p-10">
+          <div class="flex-1 p-10 mt-32">
             <AnimatePresence exitBeforeEnter>
               <motion.div exit={{ opacity: 0 }}>
                 <Switch location={location} key={location.pathname}>
-                  <Route path="/pageA"><PageA/></Route>
-                  <Route path="/pageB"> <PageB /> </Route>
-                                  
+                  <Route path="/About"><About/></Route>
+                  <Route path="/Skills"> <Skills /> </Route>
+                  <Route path="/Experience"> <Experience /> </Route>
+                  <Route path="/Projects"> <Projects /> </Route>
                 </Switch>
               </motion.div> 
             </ AnimatePresence>
