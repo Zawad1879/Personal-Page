@@ -8,7 +8,7 @@ import Experience from './pages/Experience';
 import Projects from './pages/Projects';
 import Blog from './pages/Blog';
 import { motion, AnimatePresence } from "framer-motion";
-import { Switch, Route, useLocation, useHistory } from "react-router-dom";
+import { Switch, Route, Redirect, useLocation, useHistory } from "react-router-dom";
 
 function App() {
   const location = useLocation();
@@ -25,11 +25,12 @@ function App() {
             <AnimatePresence exitBeforeEnter>
               <motion.div exit={{ opacity: 0 }}>
                 <Switch location={location} key={location.pathname}>
-                  <Route path="/About"><About/></Route>
-                  <Route path="/Skills"> <Skills /> </Route>
-                  <Route path="/Experience"> <Experience /> </Route>
-                  <Route path="/Projects"> <Projects /> </Route>
-                  <Route path="/Blog"> <Blog /> </Route>
+                  <Route path="/about"><About/></Route>
+                  <Route path="/skills"> <Skills /> </Route>
+                  <Route path="/experience"> <Experience /> </Route>
+                  <Route path="/projects"> <Projects /> </Route>
+                  <Route path="/blog"> <Blog /> </Route>
+                  <Route path="/"> <Redirect to="/about" /> </Route>
                 </Switch>
               </motion.div> 
             </ AnimatePresence>
