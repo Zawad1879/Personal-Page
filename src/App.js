@@ -6,6 +6,7 @@ import About from './pages/About';
 import Skills from './pages/Skills';
 import Experience from './pages/Experience';
 import Projects from './pages/Projects';
+import Blog from './pages/Blog';
 import { motion, AnimatePresence } from "framer-motion";
 import { Switch, Route, useLocation, useHistory } from "react-router-dom";
 
@@ -28,6 +29,7 @@ function App() {
                   <Route path="/Skills"> <Skills /> </Route>
                   <Route path="/Experience"> <Experience /> </Route>
                   <Route path="/Projects"> <Projects /> </Route>
+                  <Route path="/Blog"> <Blog /> </Route>
                 </Switch>
               </motion.div> 
             </ AnimatePresence>
