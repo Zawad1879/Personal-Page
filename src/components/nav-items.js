@@ -12,6 +12,7 @@ export default function NavItems() {
             <li className="transition duration-300 hover:text-white"><Link to="/experience">Experience</Link></li>
             <li className="transition duration-300 hover:text-white"><Link to="/projects">Projects</Link></li>
             <li className="transition duration-300 hover:text-white"><Link to="/blog">Blog</Link></li>
+            <li className="transition duration-300 hover:text-white"><Link to="/dataviz">Data Visualizations</Link></li>
         </ul>
 );
 }
