@@ -13,12 +13,14 @@ import Login from './pages/login';
 import { UserContext } from './context/UserContext';
 import { motion, AnimatePresence } from "framer-motion";
 import { Switch, Route, Redirect, useLocation, useHistory } from "react-router-dom";
+import DhakaData from './data.json'
 
 function App() {
   const location = useLocation();
   const [token, setToken] = useState();
   const [user, setUser] = useState('Default user');
-  console.log(user);
+  const [data,setData]=useState([]);
+
   return (
       <motion.div           
         initial={{ opacity: 0, y: -50 }}
@@ -38,7 +40,7 @@ function App() {
                     <Route path="/projects"> <Projects /> </Route>
                     <Route path="/blog"> <Blog /> </Route>
                     <Route path="/login"> <Login /> </Route>
-                    <Route path="/dataviz"> <Dataviz /> </Route>
+                    <Route path="/dataviz"> <Dataviz data={DhakaData}/> </Route>
                     { user != 'Default user' ? 
                     <Route path="/edit-blog"> <EditBlog /></Route> 
                     : <Redirect to="/about" /> 
