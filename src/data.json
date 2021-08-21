@@ -1,0 +1,3252 @@
+[
+    {
+        "district": 0,
+        "date": "2020-04-05",
+        "value": 54.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-06",
+        "value": 64.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-07",
+        "value": 90.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-08",
+        "value": 129.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-09",
+        "value": 209.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-11",
+        "value": 270.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-13",
+        "value": 401.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-14",
+        "value": 484.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-15",
+        "value": 546.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-16",
+        "value": 636.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-17",
+        "value": 768.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-18",
+        "value": 877.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-19",
+        "value": 1014.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-20",
+        "value": 1216.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-21",
+        "value": 1277.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-22",
+        "value": 1522.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-23",
+        "value": 1736.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-24",
+        "value": 2124.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-25",
+        "value": 2299.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-26",
+        "value": 2564.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-27",
+        "value": 2802.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-28",
+        "value": 3095.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-29",
+        "value": 3518.0
+    },
+    {
+        "district": 0,
+        "date": "2020-04-30",
+        "value": 3850.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-01",
+        "value": 4082.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-02",
+        "value": 4419.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-03",
+        "value": 4609.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-04",
+        "value": 4895.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-05",
+        "value": 5357.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-06",
+        "value": 5842.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-07",
+        "value": 6081.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-08",
+        "value": 6365.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-09",
+        "value": 6629.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-10",
+        "value": 6868.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-11",
+        "value": 7509.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-12",
+        "value": 7922.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-14",
+        "value": 8490.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-15",
+        "value": 8845.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-16",
+        "value": 9190.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-17",
+        "value": 9855.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-19",
+        "value": 10878.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-20",
+        "value": 12386.0
+    },
+    {
+        "district": 0,
+        "date": "2020-05-24",
+        "value": 13797.0
+    },
+    {
+        "district": 0,
+        "date": "2020-06-01",
+        "value": 16922.0
+    },
+    {
+        "district": 0,
+        "date": "2020-06-08",
+        "value": 21717.0
+    },
+    {
+        "district": 0,
+        "date": "2020-06-22",
+        "value": 26983.0
+    },
+    {
+        "district": 0,
+        "date": "2020-06-29",
+        "value": 29191.0
+    },
+    {
+        "district": 0,
+        "date": "2020-07-06",
+        "value": 29441.0
+    },
+    {
+        "district": 0,
+        "date": "2020-07-13",
+        "value": 29732.0
+    },
+    {
+        "district": 0,
+        "date": "2020-07-27",
+        "value": 29732.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-05",
+        "value": 11.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-06",
+        "value": 23.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-07",
+        "value": 38.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-08",
+        "value": 46.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-09",
+        "value": 59.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-11",
+        "value": 83.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-13",
+        "value": 144.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-14",
+        "value": 164.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-15",
+        "value": 214.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-16",
+        "value": 255.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-17",
+        "value": 289.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-18",
+        "value": 309.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-19",
+        "value": 386.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-20",
+        "value": 387.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-21",
+        "value": 469.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-22",
+        "value": 508.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-23",
+        "value": 532.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-24",
+        "value": 566.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-25",
+        "value": 594.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-26",
+        "value": 625.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-27",
+        "value": 699.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-28",
+        "value": 849.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-29",
+        "value": 863.0
+    },
+    {
+        "district": 1,
+        "date": "2020-04-30",
+        "value": 923.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-01",
+        "value": 966.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-02",
+        "value": 987.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-03",
+        "value": 1007.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-04",
+        "value": 1021.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-05",
+        "value": 1055.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-06",
+        "value": 1072.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-07",
+        "value": 1078.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-08",
+        "value": 1136.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-09",
+        "value": 1177.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-10",
+        "value": 1198.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-11",
+        "value": 1243.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-12",
+        "value": 1286.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-14",
+        "value": 1345.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-15",
+        "value": 1391.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-16",
+        "value": 1426.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-17",
+        "value": 1463.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-19",
+        "value": 1508.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-20",
+        "value": 1582.0
+    },
+    {
+        "district": 1,
+        "date": "2020-05-24",
+        "value": 1771.0
+    },
+    {
+        "district": 1,
+        "date": "2020-06-01",
+        "value": 2057.0
+    },
+    {
+        "district": 1,
+        "date": "2020-06-08",
+        "value": 2598.0
+    },
+    {
+        "district": 1,
+        "date": "2020-06-22",
+        "value": 4490.0
+    },
+    {
+        "district": 1,
+        "date": "2020-06-29",
+        "value": 5021.0
+    },
+    {
+        "district": 1,
+        "date": "2020-07-06",
+        "value": 5148.0
+    },
+    {
+        "district": 1,
+        "date": "2020-07-13",
+        "value": 5424.0
+    },
+    {
+        "district": 1,
+        "date": "2020-07-27",
+        "value": 5795.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-05",
+        "value": 1.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-06",
+        "value": 1.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-07",
+        "value": 1.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-08",
+        "value": 1.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-09",
+        "value": 2.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-11",
+        "value": 12.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-13",
+        "value": 35.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-14",
+        "value": 53.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-15",
+        "value": 53.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-16",
+        "value": 98.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-17",
+        "value": 117.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-18",
+        "value": 161.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-19",
+        "value": 173.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-20",
+        "value": 269.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-21",
+        "value": 269.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-22",
+        "value": 269.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-23",
+        "value": 292.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-24",
+        "value": 294.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-25",
+        "value": 261.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-26",
+        "value": 308.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-27",
+        "value": 315.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-28",
+        "value": 318.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-29",
+        "value": 320.0
+    },
+    {
+        "district": 2,
+        "date": "2020-04-30",
+        "value": 322.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-01",
+        "value": 322.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-02",
+        "value": 322.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-03",
+        "value": 324.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-04",
+        "value": 325.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-05",
+        "value": 326.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-06",
+        "value": 328.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-07",
+        "value": 328.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-08",
+        "value": 330.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-09",
+        "value": 332.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-10",
+        "value": 333.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-11",
+        "value": 338.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-12",
+        "value": 347.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-14",
+        "value": 460.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-15",
+        "value": 490.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-16",
+        "value": 509.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-17",
+        "value": 527.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-19",
+        "value": 535.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-20",
+        "value": 539.0
+    },
+    {
+        "district": 2,
+        "date": "2020-05-24",
+        "value": 544.0
+    },
+    {
+        "district": 2,
+        "date": "2020-06-01",
+        "value": 635.0
+    },
+    {
+        "district": 2,
+        "date": "2020-06-08",
+        "value": 1165.0
+    },
+    {
+        "district": 2,
+        "date": "2020-06-22",
+        "value": 2511.0
+    },
+    {
+        "district": 2,
+        "date": "2020-06-29",
+        "value": 3270.0
+    },
+    {
+        "district": 2,
+        "date": "2020-07-06",
+        "value": 3270.0
+    },
+    {
+        "district": 2,
+        "date": "2020-07-13",
+        "value": 3713.0
+    },
+    {
+        "district": 2,
+        "date": "2020-07-27",
+        "value": 4039.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-05",
+        "value": 0.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-06",
+        "value": 0.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-07",
+        "value": 0.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-08",
+        "value": 0.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-09",
+        "value": 0.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-11",
+        "value": 0.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-13",
+        "value": 0.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-14",
+        "value": 2.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-15",
+        "value": 2.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-16",
+        "value": 2.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-17",
+        "value": 9.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-18",
+        "value": 4.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-19",
+        "value": 4.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-20",
+        "value": 6.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-21",
+        "value": 5.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-22",
+        "value": 6.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-23",
+        "value": 7.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-24",
+        "value": 8.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-25",
+        "value": 9.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-26",
+        "value": 9.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-27",
+        "value": 9.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-28",
+        "value": 9.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-29",
+        "value": 12.0
+    },
+    {
+        "district": 3,
+        "date": "2020-04-30",
+        "value": 12.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-01",
+        "value": 13.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-02",
+        "value": 13.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-03",
+        "value": 13.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-04",
+        "value": 14.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-05",
+        "value": 15.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-06",
+        "value": 21.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-07",
+        "value": 21.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-08",
+        "value": 21.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-09",
+        "value": 21.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-10",
+        "value": 24.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-11",
+        "value": 31.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-12",
+        "value": 32.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-14",
+        "value": 47.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-15",
+        "value": 51.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-16",
+        "value": 55.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-17",
+        "value": 56.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-19",
+        "value": 69.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-20",
+        "value": 106.0
+    },
+    {
+        "district": 3,
+        "date": "2020-05-24",
+        "value": 134.0
+    },
+    {
+        "district": 3,
+        "date": "2020-06-01",
+        "value": 172.0
+    },
+    {
+        "district": 3,
+        "date": "2020-06-08",
+        "value": 348.0
+    },
+    {
+        "district": 3,
+        "date": "2020-06-22",
+        "value": 1023.0
+    },
+    {
+        "district": 3,
+        "date": "2020-06-29",
+        "value": 1827.0
+    },
+    {
+        "district": 3,
+        "date": "2020-07-06",
+        "value": 2047.0
+    },
+    {
+        "district": 3,
+        "date": "2020-07-13",
+        "value": 2444.0
+    },
+    {
+        "district": 3,
+        "date": "2020-07-27",
+        "value": 3593.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-05",
+        "value": 0.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-06",
+        "value": 0.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-07",
+        "value": 0.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-08",
+        "value": 0.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-09",
+        "value": 0.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-11",
+        "value": 11.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-13",
+        "value": 17.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-14",
+        "value": 21.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-15",
+        "value": 21.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-16",
+        "value": 26.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-17",
+        "value": 27.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-18",
+        "value": 33.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-19",
+        "value": 33.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-20",
+        "value": 33.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-21",
+        "value": 54.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-22",
+        "value": 61.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-23",
+        "value": 63.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-24",
+        "value": 63.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-25",
+        "value": 62.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-26",
+        "value": 72.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-27",
+        "value": 78.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-28",
+        "value": 82.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-29",
+        "value": 82.0
+    },
+    {
+        "district": 4,
+        "date": "2020-04-30",
+        "value": 110.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-01",
+        "value": 112.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-02",
+        "value": 122.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-03",
+        "value": 126.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-04",
+        "value": 127.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-05",
+        "value": 161.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-06",
+        "value": 170.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-07",
+        "value": 178.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-08",
+        "value": 210.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-09",
+        "value": 212.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-10",
+        "value": 216.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-11",
+        "value": 216.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-12",
+        "value": 217.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-14",
+        "value": 283.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-15",
+        "value": 297.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-16",
+        "value": 297.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-17",
+        "value": 329.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-19",
+        "value": 383.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-20",
+        "value": 400.0
+    },
+    {
+        "district": 4,
+        "date": "2020-05-24",
+        "value": 581.0
+    },
+    {
+        "district": 4,
+        "date": "2020-06-01",
+        "value": 698.0
+    },
+    {
+        "district": 4,
+        "date": "2020-06-08",
+        "value": 985.0
+    },
+    {
+        "district": 4,
+        "date": "2020-06-22",
+        "value": 1661.0
+    },
+    {
+        "district": 4,
+        "date": "2020-06-29",
+        "value": 1944.0
+    },
+    {
+        "district": 4,
+        "date": "2020-07-06",
+        "value": 1944.0
+    },
+    {
+        "district": 4,
+        "date": "2020-07-13",
+        "value": 2353.0
+    },
+    {
+        "district": 4,
+        "date": "2020-07-27",
+        "value": 2503.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-05",
+        "value": 0.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-06",
+        "value": 0.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-07",
+        "value": 0.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-08",
+        "value": 1.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-09",
+        "value": 1.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-11",
+        "value": 10.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-13",
+        "value": 10.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-14",
+        "value": 17.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-15",
+        "value": 17.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-16",
+        "value": 33.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-17",
+        "value": 33.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-18",
+        "value": 54.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-19",
+        "value": 77.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-20",
+        "value": 146.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-21",
+        "value": 146.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-22",
+        "value": 146.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-23",
+        "value": 63.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-24",
+        "value": 180.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-25",
+        "value": 181.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-26",
+        "value": 183.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-27",
+        "value": 191.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-28",
+        "value": 194.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-29",
+        "value": 197.0
+    },
+    {
+        "district": 5,
+        "date": "2020-04-30",
+        "value": 200.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-01",
+        "value": 201.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-02",
+        "value": 201.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-03",
+        "value": 201.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-04",
+        "value": 202.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-05",
+        "value": 202.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-06",
+        "value": 202.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-07",
+        "value": 202.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-08",
+        "value": 202.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-09",
+        "value": 202.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-10",
+        "value": 202.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-11",
+        "value": 205.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-12",
+        "value": 205.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-14",
+        "value": 206.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-15",
+        "value": 206.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-16",
+        "value": 206.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-17",
+        "value": 207.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-19",
+        "value": 207.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-20",
+        "value": 209.0
+    },
+    {
+        "district": 5,
+        "date": "2020-05-24",
+        "value": 231.0
+    },
+    {
+        "district": 5,
+        "date": "2020-06-01",
+        "value": 233.0
+    },
+    {
+        "district": 5,
+        "date": "2020-06-08",
+        "value": 314.0
+    },
+    {
+        "district": 5,
+        "date": "2020-06-22",
+        "value": 1083.0
+    },
+    {
+        "district": 5,
+        "date": "2020-06-29",
+        "value": 1083.0
+    },
+    {
+        "district": 5,
+        "date": "2020-07-06",
+        "value": 1083.0
+    },
+    {
+        "district": 5,
+        "date": "2020-07-13",
+        "value": 1677.0
+    },
+    {
+        "district": 5,
+        "date": "2020-07-27",
+        "value": 1879.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-05",
+        "value": 0.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-06",
+        "value": 0.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-07",
+        "value": 2.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-08",
+        "value": 4.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-09",
+        "value": 4.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-11",
+        "value": 4.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-13",
+        "value": 20.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-14",
+        "value": 28.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-15",
+        "value": 28.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-16",
+        "value": 64.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-17",
+        "value": 65.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-18",
+        "value": 93.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-19",
+        "value": 105.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-20",
+        "value": 135.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-21",
+        "value": 136.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-22",
+        "value": 136.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-23",
+        "value": 141.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-24",
+        "value": 141.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-25",
+        "value": 141.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-26",
+        "value": 142.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-27",
+        "value": 142.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-28",
+        "value": 142.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-29",
+        "value": 142.0
+    },
+    {
+        "district": 6,
+        "date": "2020-04-30",
+        "value": 145.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-01",
+        "value": 151.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-02",
+        "value": 151.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-03",
+        "value": 152.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-04",
+        "value": 154.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-05",
+        "value": 166.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-06",
+        "value": 167.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-07",
+        "value": 167.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-08",
+        "value": 171.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-09",
+        "value": 171.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-10",
+        "value": 171.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-11",
+        "value": 172.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-12",
+        "value": 172.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-14",
+        "value": 173.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-15",
+        "value": 173.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-16",
+        "value": 173.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-17",
+        "value": 174.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-19",
+        "value": 174.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-20",
+        "value": 175.0
+    },
+    {
+        "district": 6,
+        "date": "2020-05-24",
+        "value": 175.0
+    },
+    {
+        "district": 6,
+        "date": "2020-06-01",
+        "value": 176.0
+    },
+    {
+        "district": 6,
+        "date": "2020-06-08",
+        "value": 191.0
+    },
+    {
+        "district": 6,
+        "date": "2020-06-22",
+        "value": 1109.0
+    },
+    {
+        "district": 6,
+        "date": "2020-06-29",
+        "value": 1280.0
+    },
+    {
+        "district": 6,
+        "date": "2020-07-06",
+        "value": 1280.0
+    },
+    {
+        "district": 6,
+        "date": "2020-07-13",
+        "value": 1546.0
+    },
+    {
+        "district": 6,
+        "date": "2020-07-27",
+        "value": 1790.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-05",
+        "value": 0.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-06",
+        "value": 0.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-07",
+        "value": 0.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-08",
+        "value": 2.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-09",
+        "value": 2.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-11",
+        "value": 2.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-13",
+        "value": 7.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-14",
+        "value": 7.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-15",
+        "value": 9.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-16",
+        "value": 9.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-17",
+        "value": 9.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-18",
+        "value": 9.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-19",
+        "value": 10.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-20",
+        "value": 10.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-21",
+        "value": 13.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-22",
+        "value": 15.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-23",
+        "value": 16.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-24",
+        "value": 21.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-25",
+        "value": 22.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-26",
+        "value": 23.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-27",
+        "value": 24.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-28",
+        "value": 27.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-29",
+        "value": 28.0
+    },
+    {
+        "district": 7,
+        "date": "2020-04-30",
+        "value": 29.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-01",
+        "value": 29.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-02",
+        "value": 29.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-03",
+        "value": 29.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-04",
+        "value": 30.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-05",
+        "value": 30.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-06",
+        "value": 30.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-07",
+        "value": 30.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-08",
+        "value": 31.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-09",
+        "value": 31.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-10",
+        "value": 31.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-11",
+        "value": 31.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-12",
+        "value": 32.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-14",
+        "value": 35.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-15",
+        "value": 35.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-16",
+        "value": 35.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-17",
+        "value": 40.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-19",
+        "value": 41.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-20",
+        "value": 43.0
+    },
+    {
+        "district": 7,
+        "date": "2020-05-24",
+        "value": 50.0
+    },
+    {
+        "district": 7,
+        "date": "2020-06-01",
+        "value": 52.0
+    },
+    {
+        "district": 7,
+        "date": "2020-06-08",
+        "value": 55.0
+    },
+    {
+        "district": 7,
+        "date": "2020-06-22",
+        "value": 379.0
+    },
+    {
+        "district": 7,
+        "date": "2020-06-29",
+        "value": 528.0
+    },
+    {
+        "district": 7,
+        "date": "2020-07-06",
+        "value": 669.0
+    },
+    {
+        "district": 7,
+        "date": "2020-07-13",
+        "value": 852.0
+    },
+    {
+        "district": 7,
+        "date": "2020-07-27",
+        "value": 1271.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-05",
+        "value": 0.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-06",
+        "value": 0.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-07",
+        "value": 0.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-08",
+        "value": 0.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-09",
+        "value": 0.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-11",
+        "value": 2.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-13",
+        "value": 3.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-14",
+        "value": 9.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-15",
+        "value": 9.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-16",
+        "value": 17.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-17",
+        "value": 17.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-18",
+        "value": 21.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-19",
+        "value": 21.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-20",
+        "value": 30.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-21",
+        "value": 30.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-22",
+        "value": 35.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-23",
+        "value": 40.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-24",
+        "value": 43.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-25",
+        "value": 46.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-26",
+        "value": 49.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-27",
+        "value": 50.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-28",
+        "value": 50.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-29",
+        "value": 52.0
+    },
+    {
+        "district": 8,
+        "date": "2020-04-30",
+        "value": 45.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-01",
+        "value": 45.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-02",
+        "value": 45.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-03",
+        "value": 45.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-04",
+        "value": 47.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-05",
+        "value": 44.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-06",
+        "value": 45.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-07",
+        "value": 45.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-08",
+        "value": 49.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-09",
+        "value": 50.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-10",
+        "value": 56.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-11",
+        "value": 58.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-12",
+        "value": 62.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-14",
+        "value": 65.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-15",
+        "value": 78.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-16",
+        "value": 82.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-17",
+        "value": 83.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-19",
+        "value": 115.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-20",
+        "value": 118.0
+    },
+    {
+        "district": 8,
+        "date": "2020-05-24",
+        "value": 142.0
+    },
+    {
+        "district": 8,
+        "date": "2020-06-01",
+        "value": 168.0
+    },
+    {
+        "district": 8,
+        "date": "2020-06-08",
+        "value": 287.0
+    },
+    {
+        "district": 8,
+        "date": "2020-06-22",
+        "value": 414.0
+    },
+    {
+        "district": 8,
+        "date": "2020-06-29",
+        "value": 609.0
+    },
+    {
+        "district": 8,
+        "date": "2020-07-06",
+        "value": 684.0
+    },
+    {
+        "district": 8,
+        "date": "2020-07-13",
+        "value": 799.0
+    },
+    {
+        "district": 8,
+        "date": "2020-07-27",
+        "value": 1158.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-05",
+        "value": 11.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-06",
+        "value": 11.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-07",
+        "value": 11.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-08",
+        "value": 11.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-09",
+        "value": 11.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-11",
+        "value": 13.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-13",
+        "value": 19.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-14",
+        "value": 19.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-15",
+        "value": 19.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-16",
+        "value": 23.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-17",
+        "value": 23.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-18",
+        "value": 25.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-19",
+        "value": 25.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-20",
+        "value": 25.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-21",
+        "value": 26.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-22",
+        "value": 27.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-23",
+        "value": 28.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-24",
+        "value": 28.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-25",
+        "value": 29.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-26",
+        "value": 30.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-27",
+        "value": 36.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-28",
+        "value": 38.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-29",
+        "value": 38.0
+    },
+    {
+        "district": 9,
+        "date": "2020-04-30",
+        "value": 39.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-01",
+        "value": 39.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-02",
+        "value": 46.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-03",
+        "value": 46.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-04",
+        "value": 47.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-05",
+        "value": 48.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-06",
+        "value": 53.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-07",
+        "value": 53.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-08",
+        "value": 54.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-09",
+        "value": 54.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-10",
+        "value": 54.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-11",
+        "value": 57.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-12",
+        "value": 57.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-14",
+        "value": 61.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-15",
+        "value": 61.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-16",
+        "value": 61.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-17",
+        "value": 63.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-19",
+        "value": 69.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-20",
+        "value": 71.0
+    },
+    {
+        "district": 9,
+        "date": "2020-05-24",
+        "value": 71.0
+    },
+    {
+        "district": 9,
+        "date": "2020-06-01",
+        "value": 115.0
+    },
+    {
+        "district": 9,
+        "date": "2020-06-08",
+        "value": 203.0
+    },
+    {
+        "district": 9,
+        "date": "2020-06-22",
+        "value": 468.0
+    },
+    {
+        "district": 9,
+        "date": "2020-06-29",
+        "value": 666.0
+    },
+    {
+        "district": 9,
+        "date": "2020-07-06",
+        "value": 738.0
+    },
+    {
+        "district": 9,
+        "date": "2020-07-13",
+        "value": 832.0
+    },
+    {
+        "district": 9,
+        "date": "2020-07-27",
+        "value": 1039.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-05",
+        "value": 1.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-06",
+        "value": 1.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-07",
+        "value": 1.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-08",
+        "value": 1.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-09",
+        "value": 1.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-11",
+        "value": 1.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-13",
+        "value": 1.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-14",
+        "value": 5.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-15",
+        "value": 5.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-16",
+        "value": 6.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-17",
+        "value": 6.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-18",
+        "value": 7.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-19",
+        "value": 7.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-20",
+        "value": 8.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-21",
+        "value": 8.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-22",
+        "value": 11.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-23",
+        "value": 11.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-24",
+        "value": 11.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-25",
+        "value": 14.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-26",
+        "value": 22.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-27",
+        "value": 22.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-28",
+        "value": 24.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-29",
+        "value": 24.0
+    },
+    {
+        "district": 10,
+        "date": "2020-04-30",
+        "value": 30.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-01",
+        "value": 30.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-02",
+        "value": 39.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-03",
+        "value": 35.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-04",
+        "value": 40.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-05",
+        "value": 44.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-06",
+        "value": 54.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-07",
+        "value": 55.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-08",
+        "value": 57.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-09",
+        "value": 57.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-10",
+        "value": 57.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-11",
+        "value": 65.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-12",
+        "value": 60.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-14",
+        "value": 66.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-15",
+        "value": 67.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-16",
+        "value": 67.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-17",
+        "value": 71.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-19",
+        "value": 73.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-20",
+        "value": 74.0
+    },
+    {
+        "district": 10,
+        "date": "2020-05-24",
+        "value": 80.0
+    },
+    {
+        "district": 10,
+        "date": "2020-06-01",
+        "value": 119.0
+    },
+    {
+        "district": 10,
+        "date": "2020-06-08",
+        "value": 153.0
+    },
+    {
+        "district": 10,
+        "date": "2020-06-22",
+        "value": 295.0
+    },
+    {
+        "district": 10,
+        "date": "2020-06-29",
+        "value": 472.0
+    },
+    {
+        "district": 10,
+        "date": "2020-07-06",
+        "value": 581.0
+    },
+    {
+        "district": 10,
+        "date": "2020-07-13",
+        "value": 668.0
+    },
+    {
+        "district": 10,
+        "date": "2020-07-27",
+        "value": 843.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-05",
+        "value": 0.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-06",
+        "value": 0.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-07",
+        "value": 3.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-08",
+        "value": 3.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-09",
+        "value": 3.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-11",
+        "value": 5.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-13",
+        "value": 5.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-14",
+        "value": 5.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-15",
+        "value": 5.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-16",
+        "value": 5.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-17",
+        "value": 5.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-18",
+        "value": 6.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-19",
+        "value": 6.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-20",
+        "value": 7.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-21",
+        "value": 9.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-22",
+        "value": 9.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-23",
+        "value": 9.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-24",
+        "value": 12.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-25",
+        "value": 12.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-26",
+        "value": 12.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-27",
+        "value": 15.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-28",
+        "value": 15.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-29",
+        "value": 21.0
+    },
+    {
+        "district": 11,
+        "date": "2020-04-30",
+        "value": 21.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-01",
+        "value": 22.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-02",
+        "value": 22.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-03",
+        "value": 22.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-04",
+        "value": 22.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-05",
+        "value": 24.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-06",
+        "value": 28.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-07",
+        "value": 28.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-08",
+        "value": 28.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-09",
+        "value": 28.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-10",
+        "value": 28.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-11",
+        "value": 29.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-12",
+        "value": 29.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-14",
+        "value": 29.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-15",
+        "value": 29.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-16",
+        "value": 29.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-17",
+        "value": 38.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-19",
+        "value": 58.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-20",
+        "value": 58.0
+    },
+    {
+        "district": 11,
+        "date": "2020-05-24",
+        "value": 79.0
+    },
+    {
+        "district": 11,
+        "date": "2020-06-01",
+        "value": 134.0
+    },
+    {
+        "district": 11,
+        "date": "2020-06-08",
+        "value": 167.0
+    },
+    {
+        "district": 11,
+        "date": "2020-06-22",
+        "value": 430.0
+    },
+    {
+        "district": 11,
+        "date": "2020-06-29",
+        "value": 568.0
+    },
+    {
+        "district": 11,
+        "date": "2020-07-06",
+        "value": 603.0
+    },
+    {
+        "district": 11,
+        "date": "2020-07-13",
+        "value": 631.0
+    },
+    {
+        "district": 11,
+        "date": "2020-07-27",
+        "value": 840.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-05",
+        "value": 0.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-06",
+        "value": 0.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-07",
+        "value": 0.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-08",
+        "value": 1.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-09",
+        "value": 1.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-11",
+        "value": 6.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-13",
+        "value": 6.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-14",
+        "value": 6.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-15",
+        "value": 6.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-16",
+        "value": 7.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-17",
+        "value": 7.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-18",
+        "value": 7.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-19",
+        "value": 7.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-20",
+        "value": 8.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-21",
+        "value": 10.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-22",
+        "value": 9.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-23",
+        "value": 11.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-24",
+        "value": 11.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-25",
+        "value": 12.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-26",
+        "value": 14.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-27",
+        "value": 14.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-28",
+        "value": 14.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-29",
+        "value": 14.0
+    },
+    {
+        "district": 12,
+        "date": "2020-04-30",
+        "value": 17.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-01",
+        "value": 19.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-02",
+        "value": 19.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-03",
+        "value": 19.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-04",
+        "value": 19.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-05",
+        "value": 22.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-06",
+        "value": 23.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-07",
+        "value": 23.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-08",
+        "value": 23.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-09",
+        "value": 23.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-10",
+        "value": 23.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-11",
+        "value": 23.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-12",
+        "value": 23.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-14",
+        "value": 24.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-15",
+        "value": 27.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-16",
+        "value": 27.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-17",
+        "value": 27.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-19",
+        "value": 27.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-20",
+        "value": 33.0
+    },
+    {
+        "district": 12,
+        "date": "2020-05-24",
+        "value": 35.0
+    },
+    {
+        "district": 12,
+        "date": "2020-06-01",
+        "value": 68.0
+    },
+    {
+        "district": 12,
+        "date": "2020-06-08",
+        "value": 90.0
+    },
+    {
+        "district": 12,
+        "date": "2020-06-22",
+        "value": 140.0
+    },
+    {
+        "district": 12,
+        "date": "2020-06-29",
+        "value": 389.0
+    },
+    {
+        "district": 12,
+        "date": "2020-07-06",
+        "value": 457.0
+    },
+    {
+        "district": 12,
+        "date": "2020-07-13",
+        "value": 563.0
+    },
+    {
+        "district": 12,
+        "date": "2020-07-27",
+        "value": 814.0
+    }
+]
