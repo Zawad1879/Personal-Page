@@ -9,7 +9,7 @@ import Projects from './pages/Projects';
 import Blog from './pages/Blog';
 import EditBlog from './pages/EditBlog';
 import Dataviz from './pages/Dataviz';
-import Login from './pages/login';
+import Login from './pages/Login';
 import { UserContext } from './context/UserContext';
 import { motion, AnimatePresence } from "framer-motion";
 import { Switch, Route, Redirect, useLocation, useHistory } from "react-router-dom";

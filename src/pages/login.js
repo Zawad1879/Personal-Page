@@ -3,6 +3,7 @@ import { UserContext } from '../context/UserContext';
 import { Link, useHistory } from 'react-router-dom';
 // import FirebaseContext from '../context/firebase';
 // import * as ROUTES from '../constants/routes';
+import LoginForm from '../components/login-form'
 
 export default function Login() {
   const history = useHistory();
@@ -10,11 +11,10 @@ export default function Login() {
   const [password, setPassword] = useState();
   const[user, setUser] = useContext(UserContext);
 
-  const handleClick = () => {
+  const handleSubmit = (evt) => {
     if(username === process.env.REACT_APP_USERNAME && password === process.env.REACT_APP_PASSWORD)
     {
         console.log('USERNAME PASSWORD MATCH');
-        setUser('Changed the default user');
         history.push('/edit-blog');
     }
   };
@@ -24,21 +24,8 @@ export default function Login() {
   }, []);
 
   return (
-    <div className="login-wrapper">
-      <h1>Please Log In</h1>
-      {/* <form> */}
-        <label>
-          <p>Username</p>
-          <input type="text" onChange={e => setUsername(e.target.value)}/>
-        </label>
-        <label>
-          <p>Password</p>
-          <input type="password" onChange={e => setPassword(e.target.value)}/>
-        </label>
-        <div>
-          <button onClick={handleClick}>Submit</button>
-        </div>
-      {/* </form> */}
-    </div>
+      <div>
+        <LoginForm setUsername={setUsername} setPassword={setPassword} handleSubmit={handleSubmit}/>
+      </div>
   );
 }
