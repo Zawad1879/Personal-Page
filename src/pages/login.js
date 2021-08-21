@@ -9,27 +9,6 @@ export default function Login() {
   const [username, setUsername] = useState();
   const [password, setPassword] = useState();
   const[user, setUser] = useContext(UserContext);
- 
-//   const { firebase } = useContext(FirebaseContext);
-
-//   const [emailAddress, setEmailAddress] = useState('');
-//   const [password, setPassword] = useState('');
-
-//   const [error, setError] = useState('');
-//   const isInvalid = password === '' || emailAddress === '';
-
-//   const handleLogin = async (event) => {
-//     event.preventDefault();
-
-//     try {
-//       await firebase.auth().signInWithEmailAndPassword(emailAddress, password);
-//       history.push(ROUTES.DASHBOARD);
-//     } catch (error) {
-//       setEmailAddress('');
-//       setPassword('');
-//       setError(error.message);
-//     }
-//   };
 
   const handleClick = () => {
     if(username === process.env.REACT_APP_USERNAME && password === process.env.REACT_APP_PASSWORD)
