@@ -2,6 +2,7 @@ import './App.css';
 import { useState } from 'react';
 import Navbar from './components/navbar';
 import MobileNavbar from './components/mobile-navbar';
+import LandingPage from './pages/LandingPage';
 import About from './pages/About';
 import Skills from './pages/Skills';
 import Experience from './pages/Experience';
@@ -20,20 +21,24 @@ function App() {
   const [token, setToken] = useState();
   const [user, setUser] = useState('Default user');
   const [data,setData]=useState([]);
+  
 
   return (
       <motion.div           
         initial={{ opacity: 0, y: -50 }}
-        animate={{ opacity: 1, y: 0 }}  
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}  
         className="App relative min-h-screen md:flex">
           <MobileNavbar />
           <Navbar />
           
-          <div class="flex-1 p-10 mt-32">
-            <AnimatePresence exitBeforeEnter>
-              <motion.div exit={{ opacity: 0 }}>
+          <div class="flex-1">
+            {/* <AnimatePresence exitBeforeEnter>
+              <motion.div exit={{ opacity: 0 }}> */}
                 <UserContext.Provider value={[user, setUser]}>
+                <AnimatePresence exitBeforeEnter initial={false}>
                   <Switch location={location} key={location.pathname}>
+                    <Route path="/welcome"><LandingPage/></Route>
                     <Route path="/about"><About/></Route>
                     <Route path="/skills"> <Skills /> </Route>
                     <Route path="/experience"> <Experience /> </Route>
@@ -47,9 +52,10 @@ function App() {
                     }
                     <Route path="/"> <Redirect to="/about" /> </Route>
                   </Switch>
+                  </AnimatePresence>
                 </UserContext.Provider>
-              </motion.div> 
-            </ AnimatePresence>
+              {/* </motion.div> 
+            </ AnimatePresence> */}
           </div>
 
       </motion.div>

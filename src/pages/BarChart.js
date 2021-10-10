@@ -52,10 +52,11 @@ export default function BarChart(props) {
       const barSize = 48
       const n = 12 // Number of bars we want to show
       let k = 10 // Controls the speed of the animating bars
+      
       let districtNumbers = new Set(data.map(d => d.district));
 
       let margin = ({top: 16, right: 6, bottom: 6, left: 0})
-      let height = margin.top + barSize * n + margin.bottom
+      let height = margin.top + barSize * n + 1 + margin.bottom
 
       let x = d3.scaleLinear([0, 1], [margin.left, width - margin.right])
       let y = d3.scaleBand()
@@ -63,8 +64,8 @@ export default function BarChart(props) {
             .rangeRound([margin.top, margin.top + barSize * (n + 1 + 0.1)])
             .padding(0.1)
 
-      svg.attr("viewBox", [0, 0, width, height]);
-
+      // svg.attr("viewBox", [0, 0, width, height]);
+      
       let dateValues = Array.from(d3.rollup(data, ([d]) => d.value, d => +new Date(d.date), d => d.district))
             .map(([date, data]) => [new Date(date), data])
             .sort(([a], [b]) => d3.ascending(a, b));
@@ -162,6 +163,8 @@ export default function BarChart(props) {
                 .attr("y", d => y(d.rank))
                 .attr("width", d => x(d.value) - x(0)));
         }
+
+        
 
         function labels(svg) {
             let label = svg.append("g")
