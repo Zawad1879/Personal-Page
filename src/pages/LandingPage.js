@@ -5,7 +5,7 @@ export default function LandingPage() {
     var bgImage = {
         width: "100%",
         height: "100%",
-        backgroundImage: "url(/images/wallpapers/tokyo.jpeg)",
+        backgroundImage: "url(/images/wallpapers/goldengai.jpeg)",
       };
 
     const el = useRef(null);
@@ -37,6 +37,7 @@ export default function LandingPage() {
                 
             <div className="md:bg-cover flex justify-center items-center md:text-8xl sm:text-xl" style={ bgImage }>
                 <div>
+                    <p className="text-white text-7xl">Hello I'm <span className="text-yellow-400" >Niamat Zawad</span></p>
                     <p className="text-white text-7xl">I am <span style={{ whiteSpace: 'pre' }} ref={el} /></p>
                 </div>
             </div>
