@@ -46,11 +46,11 @@ function App() {
                     <Route path="/blog"> <Blog /> </Route>
                     <Route path="/login"> <Login /> </Route>
                     <Route path="/dataviz"> <Dataviz data={DhakaData}/> </Route>
+                    <Route path="/"> <Redirect to="/welcome" /> </Route>
                     { user != 'Default user' ? 
                     <Route path="/edit-blog"> <EditBlog /></Route> 
                     : <Redirect to="/about" /> 
                     }
-                    <Route path="/"> <Redirect to="/about" /> </Route>
                   </Switch>
                   </AnimatePresence>
                 </UserContext.Provider>
