@@ -10,7 +10,20 @@ export default function About() {
         >
             <div className="text-left p-10 md:mt-32">
                 <h1 className="text-6xl font-normal leading-normal mt-0 mb-2 text-blue-900">About</h1>
-                <p className="font-serif text-xl">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <p ><span className="text-red-500"><strong>Full stack software engineer</strong></span> with <span className="text-red-500"><strong>3 years of experience</strong></span>. <br/><br />
+                
+                I have maintained and developed multiple projects from scratch, being involved in the back-end and front-end codebases. <br/><br />
+
+                My specialities include:
+                <ul>
+                    <li><strong>Programming languages:</strong> Python , PHP, Javascript, Java, Scala</li>
+                    <li><strong>Web frameworks:</strong> Laravel, Flask, Spring, Express, React</li>
+                    <li><strong>DevOps:</strong> Git, Docker, AWS</li>
+                </ul>
+                and other libraries and technologies related to them.<br/><br/>
+                
+                </p>
+                
             </div>
         </motion.div>
     );

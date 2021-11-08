@@ -5,7 +5,7 @@ import MobileNavbar from './components/mobile-navbar';
 import LandingPage from './pages/LandingPage';
 import About from './pages/About';
 import Skills from './pages/Skills';
-import Experience from './pages/Experience';
+import Timeline from './pages/Timeline';
 import Projects from './pages/Projects';
 import Blog from './pages/Blog';
 import EditBlog from './pages/EditBlog';
@@ -32,7 +32,7 @@ function App() {
           <MobileNavbar />
           <Navbar />
           
-          <div class="flex-1">
+          <div class="flex-1 bg-gray-200">
             {/* <AnimatePresence exitBeforeEnter>
               <motion.div exit={{ opacity: 0 }}> */}
                 <UserContext.Provider value={[user, setUser]}>
@@ -41,7 +41,7 @@ function App() {
                     <Route path="/welcome"><LandingPage/></Route>
                     <Route path="/about"><About/></Route>
                     <Route path="/skills"> <Skills /> </Route>
-                    <Route path="/experience"> <Experience /> </Route>
+                    <Route path="/timeline"> <Timeline /> </Route>
                     <Route path="/projects"> <Projects /> </Route>
                     <Route path="/blog"> <Blog /> </Route>
                     <Route path="/login"> <Login /> </Route>
