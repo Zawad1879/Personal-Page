@@ -30,7 +30,6 @@ export default function Timeline() {
     <p>
         Concentrating on the data sciences and intelligent systems tracks. <br/><br/>
         Courses taken so far: Machine Learning, Natural Language Processing, Big Data Management and Analytics, Database, Operating Systems, Statistics for Data Science<br/>
-        
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
