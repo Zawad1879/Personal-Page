@@ -31,7 +31,6 @@ function App() {
         className="App relative min-h-screen md:flex">
           <MobileNavbar />
           <Navbar />
-          
           <div class="flex-1 bg-gray-200">
             {/* <AnimatePresence exitBeforeEnter>
               <motion.div exit={{ opacity: 0 }}> */}

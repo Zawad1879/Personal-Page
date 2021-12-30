@@ -42,7 +42,13 @@ export default function Timeline() {
     <h4 className="vertical-timeline-element-subtitle"><a href="https://lifematics.co.jp/en/corporate.html"><u>Lifematics Inc.</u></a></h4>
     <h4 style={{ fontSize: "12px" }} className="vertical-timeline-element-subtitle"><i>Tokyo, Japan</i></h4>
     <p>
-      Full-stack Web Development
+      <i>Full-stack Web Development</i>
+    </p>
+    <p>
+    • Built a Laravel framework API for analyzing neurological data from sensors worn by patients and send back sleep recommendations. Implemented the domain logic for generating recommendations. Containerized the app in docker and deployed it to live AWS instances.<br/>
+    • Collaborated in building a grocery E-Commerce website using PHP laravel framework, utilizing HTML, CSS, Javascript and Bootstrap to build the frontend. Built a Jenkins CI/CD pipeline for continuous deployment to AWS instances.<br/>
+    • Implemented a laboratory management system using Flask framework. Used Vue as the frontend for the system following best practices. Faced challenges of integrating 3rd party JS chemical visualization libraries.<br/>
+    • Held meetings with clients to discuss requirements and conduct sprint planning.
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -55,7 +61,12 @@ export default function Timeline() {
     <h4 className="vertical-timeline-element-subtitle"><a href="http://infinitytechltd.com/"><u>Infinity Technology International Ltd.</u></a></h4>
     <h4 style={{ fontSize: "12px" }} className="vertical-timeline-element-subtitle"><i>Dhaka, Bangladesh</i></h4>
     <p>
-      Full-stack web development
+      <i>Full-stack web development</i>
+    </p>
+    <p>
+    • Built an API web service system to enable SMS system for serving patients at a local hospital.<br/>
+    • Improved efficiency by integrating tools like slack, jira into the development workflow.
+
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -68,7 +79,7 @@ export default function Timeline() {
     <h4 className="vertical-timeline-element-subtitle"><a href="https://www.bracu.ac.bd/"><u>BRAC University</u></a></h4>
     <h4 style={{ fontSize: "12px" }} className="vertical-timeline-element-subtitle"><i>Dhaka, Bangladesh</i></h4>
     <p>
-      Teaching, grading quizzes
+    I was assigned to the courses CSE110 (Programming language) and CSE260 (Digital Logic and Design). My responsibilities included specifying consultation times, which students could utilize to clarify any concepts in JAVA or circuit designs they were unclear about. I also took classes in the absence of faculty. I was assigned invigilation duty during quizzes.
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
