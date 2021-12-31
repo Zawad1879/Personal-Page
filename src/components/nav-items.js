@@ -9,8 +9,8 @@ export default function NavItems() {
             <li className="transition duration-300 hover:text-white"><Link to="/skills"><b>Skills</b></Link></li>
             <li className="transition duration-300 hover:text-white"><Link to="/timeline"><b>Timeline</b></Link></li>
             <li className="transition duration-300 hover:text-white"><Link to="/projects"><b>Projects</b></Link></li>
-            <li className="transition duration-300 hover:text-white"><Link to="/blog"><b>Blog</b></Link></li>
-            <li className="transition duration-300 hover:text-white"><Link to="/dataviz"><b>Data Visualizations</b></Link></li>
+            {/* <li className="transition duration-300 hover:text-white"><Link to="/blog"><b>Blog</b></Link></li>
+            <li className="transition duration-300 hover:text-white"><Link to="/dataviz"><b>Data Visualizations</b></Link></li> */}
         </ul>
 );
 }
