@@ -30,7 +30,6 @@ export default function LandingPage() {
             'an <i>engineer</i>',
             'a <i>software developer</i>',
             'a <i>bibliophile</i>',
-            'a <i>meditator</i>',
             'a <i>traveller</i>',
           ],
           typeSpeed: 180,
